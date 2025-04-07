@@ -31,11 +31,11 @@ body {
 }
 
 #dino.jump {
-    animation: jump 0.6s linear;
+    animation: jump 3.0s linear;
 }
 
 @keyframes jump {
-    0%   { bottom: 40px; }
+    0%   { bottom: 20px; }
     50%  { bottom: 400px; } /* 跳躍高度 */
     100% { bottom: 20px; }
 }
