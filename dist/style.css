@@ -35,7 +35,7 @@ body {
 }
 
 @keyframes jump {
-    0%   { bottom: 20px; }
+    0%   { bottom: 40px; }
     50%  { bottom: 80px; } /* 跳躍高度 */
     100% { bottom: 20px; }
 }
